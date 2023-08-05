@@ -1,0 +1,5 @@
+/target
+log_db
+dump_rdb
+log_file_replace
+my_simple_log_file
